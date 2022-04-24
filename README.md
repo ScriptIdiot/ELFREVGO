@@ -1,3 +1,6 @@
+Command used:
+./ELFREVGO -e -n -t -f merlinfront -o obf2
+
 # ELFREVGO
 ELFREVGO is a anti-analysis tool that helps to obfuscate ELF files. It operates on already compiled ELFs and is a great tool to create challenges for CTFs or if you just want to make a Reverse Engineer's life a bit harder. Currently, it implements 5 different techniques of obfuscation that are more or less easy to reverse (there's only so much you can change without breaking execution) that are detailed a bit further down.
 ## INSTALLATION
